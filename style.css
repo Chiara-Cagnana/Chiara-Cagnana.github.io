@@ -1,0 +1,52 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+  background-image: url(img/sfondo3.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.navbar {
+  background-color: rgba(5, 5, 5, 0.5);
+  font-size: 20px;
+}
+
+.navbar-brand {
+  font-size: 40px;
+  margin-right: 30px;
+}
+
+.jumbotron {  
+  background-color:   rgba(5, 5, 5, 0.5);
+}
+
+.jumbotron h2, em {
+  color: #eecbad;
+  text-shadow: 4px 4px 4px #000000;
+}
+
+.navbar-brand img {
+  height: 60px;
+}
+
+#altezza {
+  height: 30%;
+}
+
+#mc-embedded-subscribe {
+  color: #eecbad;
+  text-shadow: 1px 1px 1px #000000;
+}
+
+#colore-testo a, .navbar-text {
+  color: #eecbad;
+  text-shadow: 4px 4px 4px #000000;
+}
+
+
